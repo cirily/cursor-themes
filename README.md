@@ -8,6 +8,7 @@ forked from https://github.com/ful1e5/Bibata_Cursor
 git clone https://github.com/cirily/cursor-themes.git
 cd cursor-themes
 sudo cp -r ./cutefish-* /usr/share/icons
+```
 
 ## License
 
