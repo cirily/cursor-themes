@@ -1,0 +1,10 @@
+.vscode/*
+
+debian/.debhelper
+debian/files
+debian/pisces-cursor-themes
+debian/*.changes
+debian/*.buildinfo
+debian/*.substvars
+debian/*.log
+obj-x86_64-linux-gnu/

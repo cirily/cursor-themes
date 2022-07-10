@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: cutefish-calamares-settings
-Source: cutefish-cursor-themes
+Upstream-Name: pisces-calamares-settings
+Source: pisces-cursor-themes
 
 Files: *
 Copyright: <years> <put author's name and email here>
@@ -14,7 +14,7 @@ License: <special license>
 # If you want to use GPL v2 or later for the /debian/* files use 
 # the following clauses, or change it to suit. Delete these two lines
 Files: debian/*
-Copyright: 2021 Reion Wong <reion@cutefishos.com>
+Copyright: 2021 Reion Wong <reion@piscesys.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
