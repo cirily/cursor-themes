@@ -8,6 +8,6 @@ Homepage: https://piscesys.com
 Vcs-Git: https://github.com/piscesys
 
 Package: pisces-cursor-themes
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Piscesys Cursor Theme
